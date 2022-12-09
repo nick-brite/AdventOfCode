@@ -1,0 +1,17 @@
+Prob 1
+Rock = A, X
+Paper = B, Y
+Scissors = C, Z
+
+Rock = 1
+Paper = 2
+Scissors = 3
+
+Prob 2
+Rock = A (1)
+Paper = B (2)
+Scissors = C (3)
+
+Loss (0pts) = X
+Tie (3pts) = Y
+Win (6pts) = Z
